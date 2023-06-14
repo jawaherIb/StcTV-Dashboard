@@ -6,16 +6,16 @@ In this project all the plots and visualizations are made in dashboard style, an
 
 ## A Bit About Dataset
 This data set describes the behavior of different users of STCTV for 2017-2018 year with different features and contains 1048575 rows.
-# Data Cleaning
+### Data Cleaning
 We removed data that was erroneous, corrupted, poorly formatted, duplicate, useless, or incomplete from a dataset.
-# Data Sampling
+### Data Sampling
 We analyzed representative subset of all data in order to uncover the meaningful information in the larger data set. Our subset contains 219 rows.
 
 ## Insights
-# Top 3 program genre
+### Top 3 program genre
 ![top 3 program genre](https://github.com/jawaherIb/StcTV-Dashboard/assets/136590920/e726f55c-f7ec-43e8-a455-3d9a99fc5a46)
 See here that after viewing the data it is easy and obvious to know the highest and lowest percentage of favorite movies by users. 
-# Program class
+### Program class
 Total watchers were 184.00 for movies and 35.00 for series, a total duration in seconds of 478,830.00 for movies and 39,396.00 for series.
 So, users prefer movies over extended series and spend much longer watching movies than other series of all kinds.
 
