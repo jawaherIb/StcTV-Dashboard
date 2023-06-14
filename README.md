@@ -2,7 +2,7 @@
 ## Introduction
 In this project all the plots and visualizations are made in dashboard style, and interactive plots.
 ## Project Team
-Jawaher Ibrahim Almotiran - Lulwah Ibrahim Altofail - Sarah Mohammad Aljowair - Bashayer Mohamed Alnemy 
+Jawaher Ibrahim Almotiran - Lulwah Ibrahim Altofail - Sarah Mohammad Aljowair - Bashayer Mohamed Alnemy.
 ## A Bit About Dataset
 This data set describes the behavior of different users of STCTV for 2017-2018 year with different features and contains 1048575 rows.
 ### Data Cleaning
