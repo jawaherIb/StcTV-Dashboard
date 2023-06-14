@@ -19,7 +19,7 @@ Total watchers were 184.00 for movies and 35.00 for series, a total duration in 
 So, users prefer movies over extended series and spend much longer watching movies than other series of all kinds.
 
 
-## STC TV DASHBOARD
+## STC TV DASHBOARD Video Demo
 
 
 
