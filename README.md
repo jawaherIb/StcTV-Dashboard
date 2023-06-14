@@ -40,5 +40,5 @@ Presented the understanding in an interactive dashboard format
 
 Bring the excel dashboard into this paper.
 
-## DATASET
+## Dataset Source
   stc TV Data Set_T1.xlsb. (n.d.). Google Docs. https://drive.google.com/file/d/1dMLR-YsabGbsvPMBGfVZwzgkjx97sfWM/view
