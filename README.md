@@ -22,6 +22,8 @@ So, users prefer movies over extended series and spend much longer watching movi
 
 ## STC TV DASHBOARD Video Demo
 
+https://github.com/jawaherIb/StcTV-Dashboard/assets/136590920/72af934d-83b2-484d-a2bd-a5f8ed1ebaf1
+
 
 
 
