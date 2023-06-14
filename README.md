@@ -14,6 +14,7 @@ We analyzed representative subset of all data in order to uncover the meaningful
 ## Insights
 ### Top 3 program genre
 ![top 3 program genre](https://github.com/jawaherIb/StcTV-Dashboard/assets/136590920/e726f55c-f7ec-43e8-a455-3d9a99fc5a46)
+
 See here that after viewing the data it is easy and obvious to know the highest and lowest percentage of favorite movies by users. 
 ### Program class
 Total watchers were 184.00 for movies and 35.00 for series, a total duration in seconds of 478,830.00 for movies and 39,396.00 for series.
