@@ -1,6 +1,3 @@
-## STC TV DASHBOARD
-STC TV Dashboard that we created to learn more about data visualization and data analysis! 
-
 ## Introduction
 In this project all the plots and visualizations are made in dashboard style, and interactive plots.
 
