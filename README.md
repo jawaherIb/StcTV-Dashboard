@@ -1,4 +1,4 @@
-## STCTV DASHBOARD
+## STC TV DASHBOARD
 STC TV Dashboard that we created to learn more about data visualization and data analysis! 
 
 ## Introduction
